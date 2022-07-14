@@ -1,28 +1,34 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'SimonPost.com',
+  tagline: 'My Blog and Second Brain',
+  url: 'https://simon-second-brain.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'simonhlee97', // Usually your GitHub org/user name.
+  projectName: 'simon-2nd-brain-docusaurus', // Usually your repo name.
   themeConfig: {
+    docs: {
+      sidebar: {
+        hideable: true,
+        // autoCollapseCategories: true,
+      }
+    },
     navbar: {
-      title: 'My Site',
+      title: 'SimonPost',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Site Logo',
         src: 'img/logo.svg',
       },
-      links: [
+      items: [
         {
-          to: 'docs/doc1',
+          to: 'docs/intro',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: '2nd Brain',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/simonhlee97/simon-2nd-brain-docusaurus',
           label: 'GitHub',
           position: 'right',
         },
@@ -32,50 +38,34 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Random Stuff I Made',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'URL Chopper',
+              href: 'https://psym.link/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'My home page',
+              href: 'https://simonhlee97.github.io/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Connect',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
+              href: 'https://twitter.com/simonhlee97',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/simonhlee97',
             },
           ],
         },
+        
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SimonPost.com. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -84,15 +74,9 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
