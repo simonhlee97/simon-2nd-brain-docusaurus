@@ -1,6 +1,6 @@
 module.exports = {
   title: 'SimonPost.com',
-  tagline: 'My Blog and Second Brain',
+  tagline: 'My Blog and 2nd Brain',
   url: 'https://simon-second-brain.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -45,7 +45,7 @@ module.exports = {
               href: 'https://psym.link/',
             },
             {
-              label: 'My home page',
+              label: 'My (other) home page',
               href: 'https://simonhlee97.github.io/',
             },
           ],
