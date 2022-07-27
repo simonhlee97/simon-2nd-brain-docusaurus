@@ -2,16 +2,14 @@
 id: rails-cheatsheet
 title: Rails cheatsheet
 ---
+![rails logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/320px-Ruby_On_Rails_Logo.svg.png)
 
-You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
+### Starting a Rails project with postgres from the beginning:
+`rails new my_app_name --database=postgresql`
 
-export const Highlight = ({children, color}) => ( <span style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}> {children} </span> );
 
-<Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
 
-I can write **Markdown** alongside my _JSX_!
+
+
+### Convert a string to a hash:
+`result_new = JSON.parse(result, symbolize_names: true)`
