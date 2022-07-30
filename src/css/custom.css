@@ -50,3 +50,39 @@ table>tbody>tr>td:nth-of-type(2) {
   background-color: var(--ifm-color-primary-lightest);
   color: var(--ifm-color-primary-darkest);
 }
+
+
+.bold {
+  font-weight: 800;
+}
+
+.blue {
+  color: rgb(61, 61, 216);
+}
+
+.red {
+  color: rgb(228, 74, 47);
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+ul.list {
+  max-width: 320px;
+  list-style-type: none;
+}
+
+#numbers {
+  text-align: center;
+}
+
+ul.list li {
+  border: 1px solid rgb(207, 194, 192);
+  padding: 15px 8px;
+  height: 40px;
+  
+}
+

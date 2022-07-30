@@ -17,5 +17,6 @@ title: Korean Words I Learned in 2022
 | 소설가        |  novelist |
 | 공상과학 영화     | sci-fi film |
 | 무술        | martial arts |
+| 대륙의  | continents  |
 
 
