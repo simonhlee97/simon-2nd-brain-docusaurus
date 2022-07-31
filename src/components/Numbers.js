@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Numbers() {
   return (
-    <div className="container">
+    <div className="numbers-container">
       <ul className="list" id="korean">
         <li>십</li>
         <li>백</li>
