@@ -1,6 +1,20 @@
-/* stylelint-disable docusaurus/copyright-header */
-/* Any CSS included here will be global. The classic template bundles Infima by default. Infima is a CSS framework designed to work well for content-centric websites. */
-/* You can override the default Infima variables here. */
+header.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.61),
+      rgba(0, 0, 0, 0.43)), url('../../static/img/blogbg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 8em;
+}
+.hero__title {
+  color: whitesmoke;
+  font-size: clamp(26px, calc(1rem + ((1vw - 4.8px) * 1.6667)), 58px);
+}
+.hero__subtitle {
+  font-size: clamp(20px, calc(1rem + ((1vw - 4.8px) * 1.6667)), 40px);
+  color: whitesmoke;
+}
+
 :root {
   --ifm-color-primary: #3549B0;
   --ifm-color-primary-dark: rgb(34, 47, 114);

@@ -1,7 +1,7 @@
 module.exports = {
   title: 'SimonPost.com',
-  tagline: 'My Blog and 2nd Brain',
-  url: 'https://simon-second-brain.vercel.app/',
+  tagline: 'Simon\'s Blog and 2nd Brain',
+  url: 'https://simonpost.com/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'simonhlee97', // Usually your GitHub org/user name.
@@ -16,7 +16,7 @@ module.exports = {
     navbar: {
       title: 'SimonPost',
       logo: {
-        alt: 'Site Logo',
+        alt: 'Simonpost.com',
         src: 'img/logo.svg',
       },
       items: [
@@ -26,7 +26,11 @@ module.exports = {
           label: '2nd Brain',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'blog',
+          label: 'Blog',
+          position: 'left'
+        },
         {
           href: 'https://github.com/simonhlee97/simon-2nd-brain-docusaurus',
           label: 'GitHub',
@@ -65,7 +69,7 @@ module.exports = {
         },
         
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SimonPost.com. Built with Docusaurus.`,
+      copyright: `SimonPost.com. <a href="https://gist.github.com/simonhlee97/683b00c355226abf9d6be80076a05c7d" target="_blank">Psymin-Rhee-License</a> ${new Date().getFullYear() }. Built with Docusaurus.`,
     },
   },
   presets: [

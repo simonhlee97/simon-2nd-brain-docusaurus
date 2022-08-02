@@ -8,25 +8,25 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Blog</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/undraw_taking_notes_re_bnaf.svg',
     description: (
       <>
-        I blog about web development and (occasionally) silly things I see in Korea as an expat.
+        I blog about web development and silly things I see in Korea as an expat.
       </>
     ),
   },
   {
     title: <>2nd Brain</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/undraw_mind_map_re_nlb6.svg',
     description: (
       <>
-        Building A Second Brain is a methodology for saving and systematically reminding us of the ideas, inspirations, insights, and connections we've gained through our experience. It expands our memory and our intellect using the modern tools of technology and networks (source: fortelabs.co).
+        The 2nd Brain is my attempt to manage information overload. <em>"Building A Second Brain is a methodology for saving and systematically reminding us of the ideas, inspirations, insights, and connections we've gained through our experience. It expands our memory and our intellect using the modern tools of technology and networks"</em> (-- source: fortelabs.co).
       </>
     ),
   },
   {
     title: <>Short Intro</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/undraw_hacker.svg',
     description: (
       <>
         I'm Simon, a 'Hoosier' (a person from Indiana), and web developer from the US 🇺🇸. Besides learning software developement, I enjoy books, tennis, golf, basketball, podcasts, New Yorker Magazine, Pink Floyd, Led Zeppelin, Simon and Garfunkel, tacos, pizza, and burgers.
@@ -56,10 +56,11 @@ function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="my name is simon. thanks for visiting my blog.">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
-        <div className="container">
+        <div className="container testdiv">
           <h1 className="hero__title">{siteConfig.title}</h1>
+          <hr style={{ "height": "1px", "border-width": "0","margin":"auto", "color": "#f5f3f0", "width":"60%", "background-color": "#f5f3f0" }} />
           <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
       </header>
