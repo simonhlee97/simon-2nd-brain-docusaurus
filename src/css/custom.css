@@ -4,11 +4,11 @@ header.hero {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 8em;
+  padding: 8em 0;
 }
 .hero__title {
   color: whitesmoke;
-  font-size: clamp(26px, calc(1rem + ((1vw - 4.8px) * 1.6667)), 58px);
+  font-size: clamp(1.875rem, calc(1.875rem + ((1vw - 0.3rem) * 2.0833)), 3.75rem);
 }
 .hero__subtitle {
   font-size: clamp(20px, calc(1rem + ((1vw - 4.8px) * 1.6667)), 40px);
@@ -95,8 +95,10 @@ ul.list {
 
 ul.list li {
   border: 1px solid rgb(207, 194, 192);
-  padding: 15px 8px;
+  padding: 9px 8px 20px 8px;
   height: 40px;
+  width: fit-content;
+  display: block;
   
 }
 
