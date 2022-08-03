@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Simon\'s Blog and 2nd Brain',
   url: 'https://simonpost.com/',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
   organizationName: 'simonhlee97', // Usually your GitHub org/user name.
   projectName: 'simon-2nd-brain-docusaurus', // Usually your repo name.
   themeConfig: {
@@ -17,7 +17,7 @@ module.exports = {
       title: 'SimonPost',
       logo: {
         alt: 'Simonpost.com',
-        src: 'img/logo.svg',
+        src: 'img/favicon.svg',
       },
       items: [
         {

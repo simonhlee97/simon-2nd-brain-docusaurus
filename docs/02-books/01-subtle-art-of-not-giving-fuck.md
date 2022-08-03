@@ -2,8 +2,9 @@
 id: The Subtle Art of Not Giving a Fu*k
 title: The Subtle Art of Not Giving a Fu*k
 ---
+![bookcover](../../static/img/markmanson.jpg)
 
-## ch 1 "Don't Try"
+## Ch 1 Don't Try
 
 * Charles Bukowski (poet)
 * His success stemmed not from some determination to be a winner, but from the fact that he knew he was a loser, accepted it, and then wrote honestly about it. He never tried to be anything other than what he was.
@@ -36,9 +37,9 @@ To not give a fuck about adversity, you must first give a fuck about something m
 #### Subtlety #3
 Whether you realize it or not, you are always choosing what to give a fuck about.
 
-------
+---
 
-## ch 2 Happiness is a Problem
+## Ch 2 Happiness is a Problem
 
 Dukkha - "life is suffering" (- Buddha)
 
@@ -52,16 +53,16 @@ What pain do you want in your life? What are you willing to struggle for?
 
 ---
 
-## ch 3 "You are not Special"
+## Ch 3 You are not Special
 
 Jimmy -> entitlement.
 
-#### 2 Forms of Entitlement
+#### Two Forms of Entitlement
 
 1. I'm awesome and the rest of you suck, so I deserve special treatment
 2. I suck and the rest of you are all awesome, so I deserve special treatment.
 
-(gradiose vs victim narcissism)
+(grandiose vs victim narcissism)
 
 
 #### Things Fall Apart
@@ -78,11 +79,9 @@ the internet has not just open-sourced information; it has also open-sourced ins
 
 #### But, If I'm Not Going to be Special or Extraordinary, what's the point?
 
-It has
 
 
-
-## ch 4 The Value of Suffering
+## Ch 4 The Value of Suffering
 
 The story of Lt Hiroo Onoda. 
 
@@ -106,4 +105,34 @@ Our values determine the nature of our problems, and the nature of our problems 
 
 #### Definiing Good and Bad Values
 
-## ch 5 You Are Always Choosing 
+---
+
+## Ch 5 You Are Always Choosing
+
+#### The Choice
+
+We are responsible for everything in our lives, no matter the external circumstances. We don't *always* control what happens to us. But we always control how we interpret what happens to us, as well as how we respond. Whether we consciously recognize it or not, we are always responsible for our experiences. It's impossible not to be. Choosing to *not* consciously interpret events in our lives is still an interpretation of the events of our lives.
+
+#### The Responsibility/Fault Fallacy
+
+Accepting responsibility for our problems is thus the first step to solving them.
+
+Nobody else is ever responsible for your situation but you.
+
+You always get to choose how you see things, how you react to things, how you value things. *You always get to choose the metric by which to measure your experiences.*
+
+We all love to take responsibility for success and happiness. But taking responsibility for our problems is far more important.
+
+#### Responding to Tragedy
+
+
+
+#### Genetics and the Hand We're Dealt
+
+#### Victimhood Chic
+
+#### There Is No "How"
+
+---
+
+## Ch 6 You're Wrong About Everything
