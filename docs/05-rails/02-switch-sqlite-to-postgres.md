@@ -1,6 +1,6 @@
 ---
-id: 02-switch-sqlite-to-postgres
-title: 02-Switch-to-Postgres
+id: 02-sqlite-to-postgres
+title: From Sqlite to Postgres
 ---
 ![rails logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/320px-Ruby_On_Rails_Logo.svg.png)
 

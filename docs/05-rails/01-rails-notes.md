@@ -1,9 +1,9 @@
 ---
 id: 01-rails-notes
-title: 01-Rails Notes
+title: Rails Notes
 ---
 ![rails logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/320px-Ruby_On_Rails_Logo.svg.png)
-## Usefule Rails Snippets
+## Useful Rails Snippets
 
 ### A simple helper method that uses a loop to generate some html.
 
