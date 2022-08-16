@@ -2,7 +2,7 @@
 slug: hello-world
 title: Hello World
 author: Simon
-author_title: web developer @?(currently looking)
+author_title: web developer
 author_url: https://github.com/simonhlee97
 author_image_url: https://github.com/simonhlee97.png
 tags: [hello]

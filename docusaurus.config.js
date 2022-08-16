@@ -6,6 +6,9 @@ module.exports = {
   favicon: 'img/favicon.svg',
   organizationName: 'simonhlee97', // Usually your GitHub org/user name.
   projectName: 'simon-2nd-brain-docusaurus', // Usually your repo name.
+  stylesheets: [
+    'https: //cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css',
+  ],
   themeConfig: {
     docs: {
       sidebar: {

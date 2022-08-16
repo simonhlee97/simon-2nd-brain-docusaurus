@@ -1,21 +1,7 @@
-header.hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.61),
-      rgba(0, 0, 0, 0.43)), url('../../static/img/blogbg.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 8em 0;
-}
-.hero__title {
-  color: whitesmoke;
-  font-size: clamp(1.875rem, calc(1.875rem + ((1vw - 0.3rem) * 2.0833)), 3.75rem);
-}
-.hero__subtitle {
-  font-size: clamp(20px, calc(1rem + ((1vw - 4.8px) * 1.6667)), 40px);
-  color: whitesmoke;
-}
-
 :root {
+  --primary: #efb6b2;
+  --secondary: #4e4e4e;
+  --error: #ff4a4a;
   --ifm-color-primary: #3549B0;
   --ifm-color-primary-dark: rgb(34, 47, 114);
   --ifm-color-primary-darker: rgb(32, 44, 106);
@@ -27,6 +13,27 @@ header.hero {
   --ifm-link-color: rgb(150, 159, 211);
   --ifm-breadcrumb-color-active: rgb(170, 178, 221);
 }
+
+header.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.61),
+      rgba(0, 0, 0, 0.43)), url('../../static/img/blogbg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 8em 0;
+}
+.hero__title {
+  color: whitesmoke;
+  padding: 14px 0;
+  font-size: clamp(1.875rem, calc(1.875rem + ((1vw - 0.3rem) * 2.0833)), 3.75rem);
+}
+.hero__subtitle {
+  padding: 14px 0;
+  font-size: clamp(20px, calc(1rem + ((1vw - 4.8px) * 1.6667)), 40px);
+  color: whitesmoke;
+}
+
+
 
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);

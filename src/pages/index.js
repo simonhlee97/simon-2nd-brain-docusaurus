@@ -35,7 +35,8 @@ const features = [
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description }) {
+  
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={classnames('col col--4', styles.feature)}>
@@ -60,7 +61,7 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container testdiv">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <hr style={{ "height": "1px", "border-width": "0","margin":"auto", "color": "#f5f3f0", "width":"60%", "background-color": "#f5f3f0" }} />
+          <hr style={{ "height": "1px", "border-width": "0","margin":"auto", "color": "#f5f3f0", "width":"56%", "background-color": "#f5f3f0" }} />
           <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
       </header>
