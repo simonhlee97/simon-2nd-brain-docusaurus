@@ -12,7 +12,9 @@ Finally! I think I am finally happy with my little online world (aka blog). I th
 
 ### Previously
 
-I had a _really_ basic Next.js blog set up. But it was too basic, which made it hard for me to add posts.
+I had a _really_ basic Next.js blog set up. But it was too basic and uninspiring, which made it hard for me to add posts.
+
+<!--truncate-->
 
 And then I discovered this 2nd Brain thing and wanted to see if I could turn it into a breathing project. So I made a basic 2nd Brain with something called DocPress.
 
