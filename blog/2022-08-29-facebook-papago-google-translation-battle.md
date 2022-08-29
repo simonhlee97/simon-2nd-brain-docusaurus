@@ -11,7 +11,7 @@ I recently came across a post in my FB feed from the Korea Tennis Association (K
 
 ## Here's the original text:
 
-최근 초등테니스대회에서 정율호 스타일이 주목받고 있다.   전주금암초 6학년 정율호는 올해  전국주니어 단식 4강,  제1회 대한테니스협회장배 준우승, 복식 우승, 종별 8강, 복식 4강, 그리고 오늘 제77회 전국학생선수권 12세부 남자단식 우승을 차지했다. 이번 대회는 큰 목표가 있어서 단식에만 집중하려 복식은 참가를 안했다.
+최근 초등테니스대회에서 정율호 스타일이 주목받고 있다. 전주금암초 6학년 정율호는 올해 전국주니어 단식 4강, 제1회 대한테니스협회장배 준우승, 복식 우승, 종별 8강, 복식 4강, 그리고 오늘 제77회 전국학생선수권 12세부 남자단식 우승을 차지했다. 이번 대회는 큰 목표가 있어서 단식에만 집중하려 복식은 참가를 안했다.
 
 <!--truncate-->
 
@@ -72,6 +72,7 @@ In addition, as a privilege of this tournament, they secured a wild card for the
 I am far from bilingual, so this is a very amateur analysis, done for fun. If you are bilingual, please share your thoughts and which translation you think is best. Before comparing, I was actually expecting Papago to be a bit better than Google and Facebook. From my limited Korean reading comprehension skills, here's a list of things that immediately jump out at me.
 
 - Google and Facebook's translation software struggled with subject pronouns, while Papago was much better at knowing when to use "I" vs "he".
+- Tennis terminology like "단식" - Papago and Google got it right and output "singles". Facebook translated it to "fasting".
 - The people who post to FB should be taught that it's better to not Koreanize (Hangulize?) proper names like "Eddie Herr" (or put the foreign names in parantheses next to the Hangulized version). Translation bots, I'm guessing, aren't really designed for things like names of people.
 - Facebook translated "초등 상위랭커들도" to "the top *bankers* of elementary school", while Papago and Google (slightly better) output "the top rankers in elementary school" (should have been "top-ranked").
 - The kid's name is 정율호. Facebook: "Jung Yoon-ho". Papago and Google did fine, and output "Jung Yul-ho" as expected.
