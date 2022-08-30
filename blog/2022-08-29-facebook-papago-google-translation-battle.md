@@ -77,5 +77,11 @@ I am far from bilingual, so this is a very amateur analysis, done for fun. If yo
 - Facebook translated "초등 상위랭커들도" to "the top *bankers* of elementary school", while Papago and Google (slightly better) output "the top rankers in elementary school" (should have been "top-ranked").
 - The kid's name is 정율호. Facebook: "Jung Yoon-ho". Papago and Google did fine, and output "Jung Yul-ho" as expected.
 - Casual readers and tennis fans alike will be able to grasp the big picture, but all the translations share this in common - even if you are a tennis expert or enthusaist, the fine-grain details of the story will be hard to extract, and you'll have to guess or ask a bilingual friend to fully get the details (still might not be enough). Ideally, a bilingual friend who also plays a lot of tennis would be able to catch all the tennis terminology used (and created) by Koreans. Not sure how engineers are supposed to build software that can prevent most of the meaning from getting lost.
+  
+(Nice article about [Google Translate in The Atlantic](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/))
 
-`git commit -m "Hoping everything's not lost"`
+#### Final Grades
+
+- Papago B-
+- Google C
+- Facebook D
