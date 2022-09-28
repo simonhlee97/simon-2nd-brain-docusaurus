@@ -42,8 +42,8 @@ title: Most Common Problem in Software Development and How to Fix it
 - great developers are persistent, have strategies, and apply them methodically
 
 ### resources:
-- [user story mapping](jpattonassociates.com/user-story-mapping)
-- [telling stories with your Git history](about.futurelearn.com/blog/telling-stories-with-your-git-history)
+- [user story mapping](http://www.jpattonassociates.com/user-story-mapping)
+- [telling stories with your Git history](https://about.futurelearn.com/blog/telling-stories-with-your-git-history)
 
 source: [youtube link](https://youtu.be/i08A2uTDoa8)
 

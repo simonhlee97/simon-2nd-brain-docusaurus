@@ -1,6 +1,6 @@
 ---
 id: 01-be-the-best-programmer-you-can-be
-title: Skills To be the Best Programmer You can be
+title: Skills to Become the Best Programmer You Can be
 ---
 
 1. Positive attitude
