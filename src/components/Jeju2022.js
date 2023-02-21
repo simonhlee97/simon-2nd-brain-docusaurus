@@ -32,10 +32,6 @@ const Jeju2022 = () => {
      { img: 'https://res.cloudinary.com/ryucave/image/upload/v1660611325/jeju-2022a/small/jeju-22-sm-2_nqyen4.jpg' },
      { img: 'https://res.cloudinary.com/ryucave/image/upload/v1660611325/jeju-2022a/small/jeju-22-sm-5_wytwpz.jpg' },
      {img: 'https://res.cloudinary.com/ryucave/image/upload/v1660611325/jeju-2022a/small/jeju-22-sm-1_kijat5.jpg'},
-     
-     
-     
-     
    ]
   
   return (
