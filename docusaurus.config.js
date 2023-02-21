@@ -48,8 +48,8 @@ module.exports = {
           title: 'Random Stuff I Made',
           items: [
             {
-              label: 'URL Chopper',
-              href: 'https://psym.link/',
+              label: 'My Book Blog',
+              href: 'https://marbled-rye-bookshelf.vercel.app/',
             },
             {
               label: 'My (other) home page',
