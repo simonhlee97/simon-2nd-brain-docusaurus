@@ -21,3 +21,9 @@ And then I discovered this 2nd Brain thing and wanted to see if I could turn it 
 But having my blog (simonpost.com) and the 2nd Brain in 2 separate repos left me bitter. So this latest project, using Docusaurus, is also an attempt to consolidate my blog and 2nd Brain into 1 Mono-Project!
 
 Finally. I really hope I can focus on writing blog posts and adding short notes to my 2nd Brain.
+
+
+
+<pre>just a quick test</pre>
+
+<ul>just a quick test</ul>

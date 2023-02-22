@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://simonpost.com/',
   baseUrl: '/',
   favicon: 'img/favicon.svg',
-  organizationName: 'simonhlee97', // Usually your GitHub org/user name.
-  projectName: 'simon-2nd-brain-docusaurus', // Usually your repo name.
+  organizationName: 'simonhlee97',
+  projectName: 'simon-2nd-brain-docusaurus',
   stylesheets: [
     'https: //cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css',
   ],
@@ -45,14 +45,14 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Random Stuff I Made',
+          title: 'A few of my other sites',
           items: [
             {
               label: 'My Book Blog',
               href: 'https://marbled-rye-bookshelf.vercel.app/',
             },
             {
-              label: 'My (other) home page',
+              label: 'My Professional home page',
               href: 'https://simonhlee97.github.io/',
             },
           ],

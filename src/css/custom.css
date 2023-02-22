@@ -10,7 +10,8 @@
   --ifm-color-primary-lighter: rgb(104, 119, 196);
   --ifm-color-primary-lightest: rgb(144, 155, 212);
   --ifm-code-font-size: 95%;
-  --ifm-link-color: rgb(150, 159, 211);
+  /* --ifm-link-color: rgb(150, 159, 211); */
+  --ifm-link-color: #6578f0;
   --ifm-breadcrumb-color-active: rgb(170, 178, 221);
 }
 
@@ -108,10 +109,10 @@ ul.list li {
   display: block;
 }
 
-.markdown>pre,
 .markdown>ul,
 .markdown>p {
   margin-bottom: var(--ifm-leading);
   font-family: 'Courier New', Courier, monospace;
-  font-weight: 400;
+  font-weight: 500;
+  font-size: 16.5px;
 }
