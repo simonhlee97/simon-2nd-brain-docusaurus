@@ -28,3 +28,7 @@ After making changes, to update live site, run `fly deploy`.
 
 `fly config display -a my-app-name` view app's configuration
 
+## Resources
+
+- [Deploy Rails app to Fly](https://guides.railsgirls.com/deployment/fly-io)
+- 
