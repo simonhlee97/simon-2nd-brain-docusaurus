@@ -30,6 +30,6 @@ title: Ruby Books and Links
 - [Ruby tutorials](https://www.devdungeon.com/content/ruby)
 
 ## Tools
-- [Ruby Version Manager]()
-- [Bundle]
+- [Ruby Version Manager](https://rvm.io/)
+- [Bundler](https://bundler.io/)
 - [Better Specs](https://www.betterspecs.org/)
