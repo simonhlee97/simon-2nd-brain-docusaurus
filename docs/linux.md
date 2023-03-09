@@ -1,6 +1,6 @@
 ---
 id: linux-links
-title: Linux links
+title: Linux
 ---
 
 ## Learn Linux
