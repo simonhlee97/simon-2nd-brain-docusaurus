@@ -43,3 +43,6 @@ then in your view, you can use the tabs_builder helper:
 ```
 
 This example is a Ruby way of generating html (on the server), sort of like generating html with JavaScript, albeit client-side.
+
+## Links
+- [devdocs](https://devdocs.io/rails~7.0/)
