@@ -20,3 +20,10 @@ title: Rails Links
 
 ## Templates
 - [RailsBytes](https://railsbytes.com/)
+
+## Hard and soft-cover Rails, Ruby books
+- _Programming Ruby_ (aka "the Pickaxe"), Second Edition, by Dave Thomas (Pragmatic Books)
+- _The Ruby Programming Language_, by David Flanagan and Yukihiro Matsumoto (O'Reilly)
+- _Best of Ruby Quiz_, James Edward Gray II (Pragmatic Bookshelf)
+- _Agile Web Development with Rails_, by Dave Thomas and David Heinemeier Hansson (Pragmatic Books)
+- _Rails Cookbook_, by Rob Orsini (O'Reilly)
