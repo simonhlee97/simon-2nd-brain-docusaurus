@@ -6,6 +6,7 @@ title: Rails Links
 
 ## Blog posts, articles
 - [A Rubyist's Guide to Vite.js](https://maximomussini.com/posts/a-rubyist-guide-to-vite-js#getting-started)
+- [Seeding a Database in Ruby on Rails](https://ninjadevel.com/seeding-database-ruby-on-rails/)
 
 ## Links, Blogs, Resources
 - [Ruby on Rails](https://rubyonrails.org/)

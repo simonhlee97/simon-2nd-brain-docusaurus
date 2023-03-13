@@ -14,13 +14,14 @@ title: JavaScript
 ---
 
 #### var vs let
+
 var is _function_-scoped
 
 let is _block_-scoped
-
 
 ---
 
 ## Links
 
 - [Smashing Magazine article "Overflow Issues in CSS"](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)
+- [JavaScript One-Liners to Use in Every Project](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)
