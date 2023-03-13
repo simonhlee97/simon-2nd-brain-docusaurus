@@ -7,6 +7,7 @@ title: Rails Links
 ## Blog posts, articles
 - [A Rubyist's Guide to Vite.js](https://maximomussini.com/posts/a-rubyist-guide-to-vite-js#getting-started)
 - [Seeding a Database in Ruby on Rails](https://ninjadevel.com/seeding-database-ruby-on-rails/)
+- [7 Patterns to Refactor Fat ActiveRecord Models](https://web.archive.org/web/20121019225528/http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 
 ## Links, Blogs, Resources
 - [Ruby on Rails](https://rubyonrails.org/)

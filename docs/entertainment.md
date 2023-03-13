@@ -29,3 +29,5 @@ title: Entertainment
 - Squid Game (S1)
 - WeCrashed
 - Pachinko (S1)
+
+(I began this list around Fall 2018)
