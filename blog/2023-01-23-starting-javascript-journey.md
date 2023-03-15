@@ -24,4 +24,3 @@ So you learned a little HTML and CSS. Now what? I compiled a list of very beginn
 - [How to create your own vanilla JS DOM manipulation library like jQuery](https://gomakethings.com/how-to-create-your-own-vanilla-js-dom-manipulation-library-like-jquery/)
 - [Advanced JS Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
 - [MicroJS - a collection of tiny JS Libraries](http://microjs.com/)
-- []()

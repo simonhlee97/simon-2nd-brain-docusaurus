@@ -38,4 +38,3 @@ Examples include: projects that have been completed or become inactive; areas th
 
 ## Other Links and Miscellaneous Sites I love
 - [Everything I Know](https://wiki.nikiv.dev/)
-- []()
