@@ -29,3 +29,8 @@ title: Rails Links
 - _Best of Ruby Quiz_, James Edward Gray II (Pragmatic Bookshelf)
 - _Agile Web Development with Rails_, by Dave Thomas and David Heinemeier Hansson (Pragmatic Books)
 - _Rails Cookbook_, by Rob Orsini (O'Reilly)
+
+## Online Courses
+- [Pro Rails Development](https://devcamp.com/trails/professional-rails-development-course)
+- [Odin Project](https://odinproject.org/)
+- [Upcase by thoughtbot](https://thoughtbot.com/upcase/practice)

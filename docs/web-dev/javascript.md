@@ -25,3 +25,5 @@ let is _block_-scoped
 
 - [Smashing Magazine article "Overflow Issues in CSS"](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)
 - [JavaScript One-Liners to Use in Every Project](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)
+- [Lee Robinson's Blog](https://leerob.io/blog)
+- [30 Seconds of Code](https://www.30secondsofcode.org/)
