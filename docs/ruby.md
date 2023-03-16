@@ -1,6 +1,6 @@
 ---
-id: ruby-books-links
-title: Ruby Books and Links
+id: ruby
+title: Ruby Books, Links, Tools, Tutorials
 ---
 
 ## Books
@@ -17,7 +17,6 @@ title: Ruby Books and Links
 - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/preface.html)
 
 ## Links
-
 - [Ruby](https://www.ruby-lang.org/en/)
 - [/ruby Reddit](https://www.reddit.com/r/ruby/)
 - [RubyFu - ruby for hackers](https://rubyfu.net/)
@@ -25,9 +24,18 @@ title: Ruby Books and Links
 - [Ruby Gems](https://rubygems.org/)
 - [Hanami - fullstack framework](https://hanamirb.org/)
 - [Sinatra - super micro-framework](https://sinatrarb.com/)
-- [Deploy Ruby Rack Web Apps with uWSGI and Nginx](https://www.devdungeon.com/content/deploy-ruby-rack-web-apps-uwsgi-and-nginx)
+
 
 ## Tools
 - [Ruby Version Manager](https://rvm.io/)
 - [Bundler](https://bundler.io/)
 - [Rake docs](https://ruby.github.io/rake/index.html)
+
+## Tutorials
+- [Write Macros (class-level declarations) in Ruby](https://pragmaticstudio.com/tutorials/ruby-macros)
+- [Sinatra Tutorial for L1 beginners](https://guides.railsgirls.com/sinatra-app)
+- [Ruby Sinatra Tutorial - for L2 beginners](https://www.devdungeon.com/content/ruby-sinatra-tutorial#toc-4)
+- [Deploy Ruby Rack Web Apps with uWSGI and Nginx](https://www.devdungeon.com/content/deploy-ruby-rack-web-apps-uwsgi-and-nginx)
+- [Ruby Rake Tutorial](https://www.devdungeon.com/content/ruby-rake-tutorial)
+- [Ruby tutorials](https://www.devdungeon.com/content/ruby)
+- [rubymonk - Learn Ruby](https://rubymonk.com/)
