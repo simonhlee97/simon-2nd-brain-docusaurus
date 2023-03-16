@@ -11,6 +11,7 @@ title: Ruby Books and Links
 - [The Little Book of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html)
 - [Learn to Program](https://pine.fm/LearnToProgram/)
 - [Pragmatic Programmer's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/ProgrammingRuby/index.html)
+- [Pragmatic Bookshelf - online shop](https://pragprog.com/categories/ruby-and-rails/)
 - [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read)
 - [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails)
 - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/preface.html)

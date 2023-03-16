@@ -3,10 +3,11 @@ id: education
 title: Education
 ---
 
-## Online Courses
-- [Odin Project](https://code.org/learn)
-- [JSLiv.dev](https://jslib.dev/category/courses/)
+## Online Courses, Tutorials
+- [Odin Project](https://theodinproject.com/)
 - [FreeCodeCamp](https://freecodecamp.org/)
+- [Pragmatic Studio](https://pragmaticstudio.com/tutorials)
+- [JSLiv.dev](https://jslib.dev/category/courses/)
 - [LearnHowToProgram](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/learn-how-to-program)
 
 ## Books

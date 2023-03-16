@@ -27,3 +27,5 @@ let is _block_-scoped
 - [JavaScript One-Liners to Use in Every Project](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)
 - [Lee Robinson's Blog](https://leerob.io/blog)
 - [30 Seconds of Code](https://www.30secondsofcode.org/)
+- [frontend tips](https://getfrontend.tips/)
+- [1 Line of Code](https://1loc.dev/)
