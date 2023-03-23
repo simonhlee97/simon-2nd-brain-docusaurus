@@ -8,6 +8,7 @@ title: Ruby Books, Links, Tools, Tutorials
 - [Why's Poignant Guide to Ruby](http://poignant.guide/)
 - [I Love Ruby (online)](https://i-love-ruby.gitlab.io/book.html)
 - [I Love Ruby (PDF)](https://bafybeihpeyh6rijr5ohrc4ejujwtcahve6xz6osqtcixzbkrweyzn33se4.ipfs.dweb.link/ilr.pdf)
+- [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [The Little Book of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html)
 - [Learn to Program](https://pine.fm/LearnToProgram/)
 - [Pragmatic Programmer's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/ProgrammingRuby/index.html)
@@ -18,6 +19,7 @@ title: Ruby Books, Links, Tools, Tutorials
 
 ## Links
 - [Ruby](https://www.ruby-lang.org/en/)
+- [Awesome Ruby](https://ruby.libhunt.com/)
 - [/ruby Reddit](https://www.reddit.com/r/ruby/)
 - [RubyFu - ruby for hackers](https://rubyfu.net/)
 - [RubyFlow](https://rubyflow.com/)

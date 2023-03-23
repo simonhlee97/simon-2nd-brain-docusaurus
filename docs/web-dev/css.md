@@ -9,6 +9,9 @@ title: CSS
 - [Eric Meyer - CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 - [PurgeCSS & styled-components](https://www.useanvil.com/blog/engineering/purgecss-styled-components/)
 - [1-Line Layouts](https://1linelayouts.glitch.me/)
+- [ModernCSS](https://moderncss.dev/)
+- [smolcss](https://smolcss.dev/)
+- [Fluid-responsive font-size calculator](https://websemantics.uk/tools/responsive-font-calculator/)
 
 ## Resources and Links
 - [web.dev](https://web.dev/learn/css/)
