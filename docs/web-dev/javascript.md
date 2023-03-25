@@ -1,28 +1,11 @@
 ---
-id: 01-javascript
+id: javascript
 title: JavaScript
 ---
 
-## Snippets
+## Links and Articles
 
-#### To help with CSS debugging (from a Smashing article "Overflow Issues in CSS"):
-
-```js
-[].forEach.call($$("*"),function(a){a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)})
-```
-
----
-
-#### var vs let
-
-var is _function_-scoped
-
-let is _block_-scoped
-
----
-
-## Links
-
+- [SO: How to drag and drop HTML list items in a form and change their hidden input field values](https://stackoverflow.com/questions/49369486/how-to-drag-and-drop-html-list-items-in-a-form-and-change-their-hidden-input-fie)
 - [Smashing Magazine article "Overflow Issues in CSS"](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)
 - [JavaScript One-Liners to Use in Every Project](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)
 - [Lee Robinson's Blog](https://leerob.io/blog)
