@@ -9,7 +9,7 @@ title: Rails Links
 - [Seeding a Database in Ruby on Rails](https://ninjadevel.com/seeding-database-ruby-on-rails/)
 - [7 Patterns to Refactor Fat ActiveRecord Models](https://web.archive.org/web/20121019225528/http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 
-## Links, Blogs, Resources
+## Docs, Blogs, Resources
 - [Ruby on Rails](https://rubyonrails.org/)
 - [devdocs](https://devdocs.io/rails~7.0/)
 - [rspec-rails](https://github.com/rspec/rspec-rails)
@@ -17,7 +17,7 @@ title: Rails Links
 - [Better Specs](https://www.betterspecs.org/)
 - [codewithjason blog](https://www.codewithjason.com/articles/)
 
-## Books
+## eBooks
 - [Advanced Rails (Brad Ediger)](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/O%27Reilly%20Advanced%20Rails.pdf)
 
 ## Templates
@@ -32,5 +32,5 @@ title: Rails Links
 
 ## Online Courses
 - [Pro Rails Development](https://devcamp.com/trails/professional-rails-development-course)
-- [Odin Project](https://odinproject.org/)
+- [Odin Project](https://theodinproject.com/)
 - [Upcase by thoughtbot](https://thoughtbot.com/upcase/practice)
