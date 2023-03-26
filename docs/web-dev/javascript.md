@@ -9,13 +9,18 @@ title: JavaScript
 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
 - [SO: How to drag and drop HTML list items in a form and change their hidden input field values](https://stackoverflow.com/questions/49369486/how-to-drag-and-drop-html-list-items-in-a-form-and-change-their-hidden-input-fie)
 - [Smashing Magazine article "Overflow Issues in CSS"](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)
+- [How to Code Blackjack Using JavaScript](https://www.thatsoftwaredude.com/content/6417/how-to-code-blackjack-using-javascript)
 - [JavaScript One-Liners to Use in Every Project](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)
 - [Lee Robinson's Blog](https://leerob.io/blog)
 - [30 Seconds of Code](https://www.30secondsofcode.org/)
 - [frontend tips](https://getfrontend.tips/)
 - [1 Line of Code](https://1loc.dev/)
+- [masteringjs](https://masteringjs.io/)
+- [HTML Dog JS Tutorials](https://htmldog.com/guides/javascript/)
 
 ## Books
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [JavaScript.Info](https://javascript.info/)
+- [JavaScript: The Good Parts](http://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
+- [Patterns.dev](https://www.patterns.dev/)

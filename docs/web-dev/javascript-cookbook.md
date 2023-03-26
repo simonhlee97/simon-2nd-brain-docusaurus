@@ -16,5 +16,3 @@ title: JavaScript Snippets
 var is _function_-scoped
 
 let is _block_-scoped
-
----

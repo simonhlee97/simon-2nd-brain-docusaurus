@@ -12,6 +12,7 @@ title: Rails Links
 ## Docs, Blogs, Resources
 - [Ruby on Rails](https://rubyonrails.org/)
 - [devdocs](https://devdocs.io/rails~7.0/)
+- [mintbit blog](https://www.mintbit.com/blog/)
 - [rspec-rails](https://github.com/rspec/rspec-rails)
 - [Superails blog](https://blog.corsego.com/)
 - [Better Specs](https://www.betterspecs.org/)
