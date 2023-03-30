@@ -3,7 +3,7 @@ id: intro
 title: Start Here
 ---
 
-## About Simon's Second Brain + Public Learning Project
+## About My 'Second Brain' + Public Learning Project
 
 I take _Zero_ credit for coming up with the ideas. I'm just trying things out and learning from others.
 
@@ -16,7 +16,7 @@ For more on this "Second Brain" & "Public Learning" stuff, here are some links i
 
 -------
 
-### What is the PARA System?
+#### What is the PARA System?
 
 **P** -> **Project** is “a series of tasks linked to a goal, with a deadline.”
 
@@ -33,3 +33,7 @@ Examples include: habit formation; project management; transhumanism; coffee; mu
 **A** -> **Archives** include “inactive items from the other three categories.”
 
 Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in.
+
+## Now
+
+What I'm doing now: learning Ruby and Rails 7 while building a project
