@@ -17,6 +17,7 @@ title: JavaScript
 - [1 Line of Code](https://1loc.dev/)
 - [masteringjs](https://masteringjs.io/)
 - [HTML Dog JS Tutorials](https://htmldog.com/guides/javascript/)
+- [Kirupa JS Tips](https://www.kirupa.com/javascript/tips.htm)
 
 ## Books
 

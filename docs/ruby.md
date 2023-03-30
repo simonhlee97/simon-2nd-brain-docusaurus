@@ -34,6 +34,7 @@ title: Ruby Books, Links, Tools, Tutorials
 - [Rake docs](https://ruby.github.io/rake/index.html)
 
 ## Tutorials
+- [Graceful.dev](https://graceful.dev/)
 - [Write Macros (class-level declarations) in Ruby](https://pragmaticstudio.com/tutorials/ruby-macros)
 - [Sinatra Tutorial for L1 beginners](https://guides.railsgirls.com/sinatra-app)
 - [Ruby Sinatra Tutorial - for L2 beginners](https://www.devdungeon.com/content/ruby-sinatra-tutorial#toc-4)

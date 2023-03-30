@@ -32,9 +32,4 @@ Examples include: habit formation; project management; transhumanism; coffee; mu
 
 **A** -> **Archives** include “inactive items from the other three categories.”
 
-Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in
-
----
-
-## Other Links and Miscellaneous Sites I love
-- [Everything I Know](https://wiki.nikiv.dev/)
+Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in.
