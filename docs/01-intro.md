@@ -3,7 +3,7 @@ id: intro
 title: Start Here
 ---
 
-## About My 'Second Brain' + Public Learning Project
+## About My 'Second Brain', aka Public Learning, aka "My Little Knowledge" Wiki
 
 I take _Zero_ credit for coming up with the ideas. I'm just trying things out and learning from others.
 
@@ -14,9 +14,9 @@ For more on this "Second Brain" & "Public Learning" stuff, here are some links i
 * [Tiago - Second Brain guru](https://www.buildingasecondbrain.com/)
 * [PARA System](https://fortelabs.co/blog/para/) (it's a method for organizing content, which I am kind of using. More below.)
 
--------
+---
 
-#### What is the PARA System?
+## What is the PARA System?
 
 **P** -> **Project** is “a series of tasks linked to a goal, with a deadline.”
 
@@ -34,6 +34,8 @@ Examples include: habit formation; project management; transhumanism; coffee; mu
 
 Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in.
 
+---
+
 ## Now
 
-What I'm doing now: learning Ruby and Rails 7 while building a project
+What I'm doing __NOW__: learning Svelte, Ruby, and Rails 7!

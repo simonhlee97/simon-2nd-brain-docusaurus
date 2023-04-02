@@ -2,9 +2,18 @@
 id: javascript
 title: JavaScript
 ---
+## Books
 
-## Links and Articles
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [JavaScript.Info](https://javascript.info/)
+- [JavaScript: The Good Parts](http://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
+- [Patterns.dev](https://www.patterns.dev/)
 
+## Cool Libraries, Blog Posts, Articles, etc.
+- [SortableJS - a library for reorderable drag-and-drop lists](https://sortablejs.github.io/Sortable/)
+- [How to create your own vanilla JS DOM manipulation library like jQuery](https://gomakethings.com/how-to-create-your-own-vanilla-js-dom-manipulation-library-like-jquery/)
+- [Advanced JS Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
+- [MicroJS - a collection of tiny JS Libraries](http://microjs.com/)
 - [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
 - [SO: How to drag and drop HTML list items in a form and change their hidden input field values](https://stackoverflow.com/questions/49369486/how-to-drag-and-drop-html-list-items-in-a-form-and-change-their-hidden-input-fie)
@@ -18,10 +27,3 @@ title: JavaScript
 - [masteringjs](https://masteringjs.io/)
 - [HTML Dog JS Tutorials](https://htmldog.com/guides/javascript/)
 - [Kirupa JS Tips](https://www.kirupa.com/javascript/tips.htm)
-
-## Books
-
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [JavaScript.Info](https://javascript.info/)
-- [JavaScript: The Good Parts](http://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
-- [Patterns.dev](https://www.patterns.dev/)
