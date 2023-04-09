@@ -30,4 +30,4 @@ title: Entertainment
 - WeCrashed
 - Pachinko (S1)
 
-(I began this list around Fall 2018)
+(note: I began this list around Fall 2018)

@@ -1,6 +1,6 @@
 ---
-id: cool-random-stuff
-title: Cool Random Stuff
+id: cool-code
+title: Cool Code Snippets
 ---
 
 ## The Y Combinator
