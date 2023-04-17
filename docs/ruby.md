@@ -26,6 +26,7 @@ title: Ruby Books, Links, Tools, Tutorials
 - [Ruby Gems](https://rubygems.org/)
 - [Hanami - fullstack framework](https://hanamirb.org/)
 - [Sinatra - super micro-framework](https://sinatrarb.com/)
+- [makisushi](https://makisushi.io/)
 
 
 ## Tools

@@ -1,6 +1,6 @@
 ---
 id: books
-title: Books
+title: Books I Read
 ---
 
 - [The New Koreans](https://www.goodreads.com/book/show/402986.The_Koreans)
