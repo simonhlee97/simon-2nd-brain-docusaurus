@@ -13,6 +13,7 @@ title: Ruby Books, Links, Tools, Tutorials
 - [Learn to Program](https://pine.fm/LearnToProgram/)
 - [Pragmatic Programmer's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/ProgrammingRuby/index.html)
 - [Pragmatic Bookshelf - online shop](https://pragprog.com/categories/ruby-and-rails/)
+- [Essential Ruby](https://www.programming-books.io/essential/ruby/)
 - [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read)
 - [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails)
 - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/preface.html)
@@ -20,6 +21,7 @@ title: Ruby Books, Links, Tools, Tutorials
 ## Links
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Awesome Ruby](https://ruby.libhunt.com/)
+- [awesome-ruby list in GitHub](https://github.com/markets/awesome-ruby)
 - [/ruby Reddit](https://www.reddit.com/r/ruby/)
 - [RubyFu - ruby for hackers](https://rubyfu.net/)
 - [RubyFlow](https://rubyflow.com/)
@@ -30,11 +32,12 @@ title: Ruby Books, Links, Tools, Tutorials
 
 
 ## Tools
-- [Ruby Version Manager](https://rvm.io/)
 - [Bundler](https://bundler.io/)
+- [Ruby Gems](https://rubygems.org/)
+- [Ruby Version Manager](https://rvm.io/)
 - [Rake docs](https://ruby.github.io/rake/index.html)
 
-## Tutorials
+## Tutorials, Blogs
 - [Graceful.dev](https://graceful.dev/)
 - [Write Macros (class-level declarations) in Ruby](https://pragmaticstudio.com/tutorials/ruby-macros)
 - [Sinatra Tutorial for L1 beginners](https://guides.railsgirls.com/sinatra-app)

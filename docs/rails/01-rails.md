@@ -21,6 +21,7 @@ title: Rails Links
 ## eBooks
 - [Advanced Rails (Brad Ediger)](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/O%27Reilly%20Advanced%20Rails.pdf)
 - [Michael Hartl's Rails Tutorial (Rails 6)](https://edu.anarcho-copy.org/Programming%20Languages/Ruby/ruby-rails-tutorial-learn-web-development-6th.pdf)
+- [Objects on Rails](https://web.archive.org/web/20190319201525/http://objectsonrails.com/)
 
 ## Templates
 - [RailsBytes](https://railsbytes.com/)
