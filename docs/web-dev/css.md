@@ -12,6 +12,8 @@ title: CSS
 - [ModernCSS](https://moderncss.dev/)
 - [smolcss](https://smolcss.dev/)
 - [Fluid-responsive font-size calculator](https://websemantics.uk/tools/responsive-font-calculator/)
+- [Flexbox Playground](https://flexbox.tech/)
+- [Flexbox playground on CodePen](https://codepen.io/enxaneta/full/adLPwv/)
 
 ## Resources and Links
 - [web.dev](https://web.dev/learn/css/)
