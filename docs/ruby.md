@@ -36,6 +36,7 @@ title: Ruby Books, Links, Tools, Tutorials
 - [Ruby Gems](https://rubygems.org/)
 - [Ruby Version Manager](https://rvm.io/)
 - [Rake docs](https://ruby.github.io/rake/index.html)
+- [Rubular, a regex editor](https://rubular.com/)
 
 ## Tutorials, Blogs
 - [Graceful.dev](https://graceful.dev/)

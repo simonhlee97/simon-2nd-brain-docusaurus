@@ -17,15 +17,19 @@ title: Entertainment
 - The Great Hack
 - Between Two Ferns: the movie
 - Knock Down the House
+- Creed
+- Black Panther
 - Capital in the 21st Century
 - The Social Dilemma
 - Saving Capitalism
 - Bohemian Rhapsody
 - Moneyball
 - Argo
-
+- Inception
+- Walk Hard
 
 ## TV Shows and Series
+- Beef
 - Squid Game (S1)
 - WeCrashed
 - Pachinko (S1)
