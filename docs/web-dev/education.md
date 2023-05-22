@@ -7,6 +7,7 @@ title: Education
 - [Odin Project](https://theodinproject.com/)
 - [FreeCodeCamp](https://freecodecamp.org/)
 - [Pragmatic Studio](https://pragmaticstudio.com/tutorials)
+- [Frontend Armory](https://frontarm.com/)
 - [JSLiv.dev](https://jslib.dev/category/courses/)
 - [LearnHowToProgram](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/learn-how-to-program)
 - [The JavaScript Learning Landscape in 2018](https://css-tricks.com/javascript-learning-landscape-2018/)
