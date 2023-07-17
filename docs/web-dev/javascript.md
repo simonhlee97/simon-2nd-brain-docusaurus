@@ -8,6 +8,8 @@ title: JavaScript
 - [JavaScript.Info](https://javascript.info/)
 - [JavaScript: The Good Parts](http://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
 - [Patterns.dev](https://www.patterns.dev/)
+- [HTML Canvas Deep Dive](https://joshondesign.com/p/books/canvasdeepdive/chapter01.html)
+- [JSbooks free](https://jsbooks.revolunet.com/)
 
 ## Cool Libraries, Blog Posts, Articles, etc.
 - [SortableJS - a library for reorderable drag-and-drop lists](https://sortablejs.github.io/Sortable/)

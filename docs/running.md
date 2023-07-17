@@ -3,7 +3,7 @@ id: running-stats
 title: My Running Stats
 ---
 
-- 2014 Seoul International Marathon - 5:02:33
+- 2014 Seoul International Marathon - 4:56:33
 - 2011 Chicago Marathon - 4:14:02
 - 2011 Bucktown 5K - 22:52
 - 2011 Soldier Field 10 Mile - 1:26:02
