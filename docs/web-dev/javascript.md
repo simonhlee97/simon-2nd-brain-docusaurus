@@ -10,6 +10,7 @@ title: JavaScript
 - [Patterns.dev](https://www.patterns.dev/)
 - [HTML Canvas Deep Dive](https://joshondesign.com/p/books/canvasdeepdive/chapter01.html)
 - [JSbooks free](https://jsbooks.revolunet.com/)
+- [JavaScript Challenges](http://tcorral.github.io/javascript-challenges-book/)
 
 ## Cool Libraries, Blog Posts, Articles, etc.
 - [SortableJS - a library for reorderable drag-and-drop lists](https://sortablejs.github.io/Sortable/)
